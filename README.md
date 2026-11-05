@@ -29,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
