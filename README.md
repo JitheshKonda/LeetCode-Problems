@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [1021-remove-outermost-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
