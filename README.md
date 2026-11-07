@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 ## Two Pointers
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
