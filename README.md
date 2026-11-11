@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
