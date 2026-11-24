@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
