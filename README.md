@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [3360-stone-removal-game](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/JitheshKonda/LeetCode-Problems/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
